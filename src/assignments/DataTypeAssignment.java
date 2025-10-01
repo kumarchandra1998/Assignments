@@ -1,4 +1,4 @@
-package language.basics;
+package assignments;
 
 public class DataTypeAssignment {
 
@@ -13,7 +13,7 @@ public class DataTypeAssignment {
 		System.out.println("The order status is : " + order);
 
 		// 3. Person's phone number: "123-456-7890"
-		long PhoneNumber = 9845096068l;
+		String PhoneNumber = "123-456-7890";
 		System.out.println("The customer's phone number is : " + PhoneNumber);
 
 		// 4. Amount of money in a customer's bank account: 1000.50
