@@ -11,6 +11,9 @@ public class Class2 {
 		Class1 obj = new Class1();
 		System.out.println(obj.empid);
 		System.out.println(obj.empname);
+		
+		
+		
 	}
 
 }
