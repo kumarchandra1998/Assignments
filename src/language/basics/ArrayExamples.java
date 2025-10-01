@@ -8,8 +8,8 @@ public class ArrayExamples {
 				//1D Array
 				
 				//Syntax : When we know the values
-				String empNames[] = {"John", "Smith", "David", "Peter"};
-				int empIds[] = {101, 102, 103, 104};
+				String[] empNames= {"John", "Smith", "David", "Peter"};
+				int[] empIds = {101, 102, 103, 104};
 				
 				System.out.println("Employee Name at index 2: " + empNames[2]);
 				System.out.println("Employee ID at index 3: " + empIds[3]);
